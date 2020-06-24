@@ -1,26 +1,28 @@
 # hw01
 
-*how to write in italics*
+## Short Biography
 
-**how to write in bold**
+![](images(IMG_9165.png)
 
-##Short Biography
+**Sandra Mauro**
 
-[link](www.rstudio.com) 
-
-* unordered list
-* item 2
- + sub-item 1
- + sub-item 2 
+My name is Sandra Mauro and I am a first-year student at UChicago.
+I am currently in the SISRM program.
 
 
-My name is Sandra Mauro
+* These are my summer plans:
+ + Take Computing for the Social Sciences
+ + Conduct research with Professor Casey Mulligan
+ + Take an online python course
+ 
+ *Here is a link explaining the project I will be working on this summer*
 
-##Short Biography
 
-how to add an image:
+[link](https://bfi.uchicago.edu/insight/multimedia/automated-economic-reasoning/) 
 
-![](path/to/smallorb.png) 
+
+
+
 
 
 

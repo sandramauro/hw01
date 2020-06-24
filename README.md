@@ -2,7 +2,7 @@
 
 ## Short Biography
 
-![](images(IMG_9165.png)
+![](images/IMG_9165.png)
 
 **Sandra Mauro**
 
@@ -10,7 +10,7 @@ My name is Sandra Mauro and I am a first-year student at UChicago.
 I am currently in the SISRM program.
 
 
-* These are my summer plans:
+These are my summer plans:
  + Take Computing for the Social Sciences
  + Conduct research with Professor Casey Mulligan
  + Take an online python course
